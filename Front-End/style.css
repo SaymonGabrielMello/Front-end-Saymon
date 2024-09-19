@@ -1,0 +1,26 @@
+   /* Estilizando o corpo da pagina*/
+   body{
+   background-color: rgb(27, 55, 129) ;} 
+   
+   /* Estilizando cabeçalho*/
+header{
+    background-color: rgb(16, 55, 92); /* cor de fundo do cabeçalho*/
+    color: #ffffff; /* cor das letras*/
+    padding:15px; /* preenchimento do cabeçalho*/
+    text-align: center; /* Alinhamento no centro*/
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif /* Tipo de letra*/
+}
+article{
+    background-image: -webkit-image-set("pequeno.jpg") ;
+    font-size:medium;
+}
+.paragrafo1{
+    color:goldenrod;
+    
+}
+.paragrafo2{
+    color: goldenrod;
+}
+.paragrafo3{
+    color: goldenrod;        
+}
